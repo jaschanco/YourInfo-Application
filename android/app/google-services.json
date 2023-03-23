@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364009337549",
+    "project_id": "information-display-app",
+    "storage_bucket": "information-display-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364009337549:android:e50f2205e0646879ecef84",
+        "android_client_info": {
+          "package_name": "com.example.information_display"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364009337549-js16hph679j8e79fpdvl37htfa2oggmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQXJ12Tr2wvCtP5t1RLDbvwxOV3uNI7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364009337549-js16hph679j8e79fpdvl37htfa2oggmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
